@@ -22,6 +22,7 @@ export default {
         'spin-slow': 'spin 8s linear infinite',
         'marquee': 'marquee 28s linear infinite',
         'float': 'float 6s ease-in-out infinite',
+        'slow-zoom': 'slow-zoom 20s ease-in-out infinite alternate',
       },
       transitionTimingFunction: {
         'spring': 'cubic-bezier(0.16, 1, 0.3, 1)',

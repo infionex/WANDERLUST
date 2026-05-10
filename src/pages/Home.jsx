@@ -70,9 +70,9 @@ const Home = () => {
       <section className="relative h-screen flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0 z-0">
           <img 
-            src="https://images.unsplash.com/photo-1506929113670-b42d07e69be0?auto=format&fit=crop&q=80&w=2000" 
+            src="https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&q=80&w=2400" 
             alt="Hero Background" 
-            className="w-full h-full object-cover scale-110 animate-slow-zoom"
+            className="w-full h-full object-cover animate-slow-zoom"
           />
           <div className="absolute inset-0 bg-gradient-to-b from-black/70 via-black/20 to-black/80"></div>
         </div>
